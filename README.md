@@ -1,6 +1,6 @@
 # docker-springboot-demo
 
-This is a simple Restful webservice application built with Spring-Boo
+This is a simple Restful webservice application built with Spring-Boot
 
 Docker Related Steps:
 ---------------------
