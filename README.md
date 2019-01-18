@@ -1,4 +1,4 @@
-# docker-springboot-demo
+# springboot-microservice-demo
 
 This is a simple Restful webservice application built with Spring-Boot
 
