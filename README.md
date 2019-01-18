@@ -19,6 +19,7 @@ Run this application in your machine using following steps:
 1. Clone this repository in your machine.
 2. Open Terminal
 3. Go to the folder where you have cloned the project with Dockerfile
-4. Run the command to build and tag the docker image: docker build -f Dockerfile -t docker-springBoot .
-5. Run the command to start the application : docker run -p 8090:8090 docker-spring-boot
-6. Verify the running application using the URL : http://localhost:8090/sayhello
+4. Start docker if it is not already running.
+5. Run the command to build and tag the docker image: docker build -f Dockerfile -t docker-springBoot .
+6. Run the command to start the application : docker run -p 8090:8090 docker-spring-boot
+7. Verify the running application using the URL : http://localhost:8090/sayhello
